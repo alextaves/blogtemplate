@@ -1,2 +1,0 @@
-# blogtemplate
-Created with CodeSandbox
